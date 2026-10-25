@@ -1,0 +1,12 @@
+{
+  "name": "security-audit",
+  "version": "1.0.0",
+  "description": "Source-first security audit skill from Cloudflare: reconnaissance, coverage-led hunting, independent validation, and structured reporting.",
+  "author": {
+    "name": "seabnavin19"
+  },
+  "homepage": "https://github.com/seabnavin19/security-skills",
+  "repository": "https://github.com/seabnavin19/security-skills",
+  "license": "MIT",
+  "keywords": ["security", "audit", "vulnerability", "pentest"]
+}

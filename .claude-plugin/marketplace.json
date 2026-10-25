@@ -1,0 +1,14 @@
+{
+  "name": "security-skills",
+  "description": "Security skills for coding agents",
+  "owner": {
+    "name": "seabnavin19"
+  },
+  "plugins": [
+    {
+      "name": "security-audit",
+      "source": "./",
+      "description": "Source-first security audit skill from Cloudflare: reconnaissance, coverage-led hunting, independent validation, and structured reporting."
+    }
+  ]
+}
